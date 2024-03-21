@@ -1,6 +1,6 @@
 # SINDy - BSc Thesis
 
-This repository contains the code written for the thesis of my BSc in Mathematical and Computing Sciences for Artificial Intelligence. The work focuses on analyzing the paper [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/10.1073/pnas.1517384113) by Brunton et al.
+This repository contains the code written for the thesis of my BSc in Mathematical and Computing Sciences for Artificial Intelligence. The work focuses analyzes the paper [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/10.1073/pnas.1517384113) by Brunton et al.
 
 **The work is yet to be completed.**
 
@@ -11,4 +11,7 @@ This repository contains the code written for the thesis of my BSc in Mathematic
 - ```optimization.ipynb``` contains code for the Optimization section of the thesis
 - ```sindy.ipynb``` contains the implementation of the SINDy algorithm from scratch. It replicates the identification of Lorenz from the paper
 - ```lorenz.ipynb``` contains the application of SINDy on Lorenz using PySINDy. It also replicates other results from the paper.
+- ```lotka-volterra.ipynb``` contains the application of SINDy on the Lotka-Volterra system.
+- ```hopfield.ipynb``` contains the application of SINDy on the continuous Hopfield neural network model.
+
 
